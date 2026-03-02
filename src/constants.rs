@@ -1,0 +1,3 @@
+const BIRTHDAY: i32 = 2000;
+const MINUTES_PER_HOUR: i32 = 60;
+const METERS_PER_MILE: i32 = 1609;

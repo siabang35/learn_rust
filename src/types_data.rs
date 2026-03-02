@@ -1,0 +1,12 @@
+let my_num: i32 = 5;
+let my_double: f64 = 5.88;
+let my_letter: char = 'D';
+let my_bool: bool= false;
+let my_tuple:(i32, &str, i32) = (1, "Danz", 26);
+let my_array: [i32; 7] = [1,3,5,6,6,6,5];
+let my_text: &str = "Hello World";
+let my_vector: Vec<i32> = vec![1,2,3,4,5];
+let my_hashmap: HashMap<i32, &str> = HashMap::new();
+let my_option: Option<i32> = None;
+let my_result: Result<i32, &str> = Sipp[5];
+let my_ref: &i32 = &my_num;
