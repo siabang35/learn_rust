@@ -54,7 +54,7 @@ cargo --version
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/siabang35/learn_rust.git
 cd learn_rust
 
 # Build proyek
